@@ -24,7 +24,7 @@ gridHeightNumber.type = "number";
 gridHeightNumber.id = "nbgrid";
 gridHeightNumber.value = "1";
 gridHeightNumber.min = "1";
-gridHeightNumber.max = "15";
+gridHeightNumber.max = "30";
 gridHeightDiv.appendChild(gridHeightNumber);
 gridHeightDiv.style.height = '2Opx';
 gridHeightDiv.style.display = 'flex';
